@@ -123,6 +123,3 @@ streamlit run app.py
 - Assess model fairness and performance across relevant customer groups.
 - Add automated tests, reproducible training, and model monitoring.
 
-
-
-*Disclaimer: This project is intended for educational and portfolio purposes. Predictions should not be used as the sole basis for real credit decisions.*
